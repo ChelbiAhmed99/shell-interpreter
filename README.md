@@ -52,8 +52,11 @@ At first, To delete all the object files and executables we use the command
 clean.you have to run: 
 
 -make clean 
+
 Next, To run the shell we’ll create the executables by running a simple
 makefile using the command. 
+
 -make 
+
 ./exec 
 
