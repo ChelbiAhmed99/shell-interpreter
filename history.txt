@@ -1,0 +1,11 @@
+ls
+ls || pwd
+aa || pwd
+history
+nadim
+./batch.sh
+./bash.sh
+ls
+pwd
+./bash.sh
+./batch.sh
